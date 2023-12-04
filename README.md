@@ -5,7 +5,7 @@ My name is Nicolas Dumetz, and I have been passionate about computer development
 
 ## Skills
 - Languages: Python, C, HTML/CSS, PHP, Java
-- Tools: Git, VS Code
+- Tools: Git, VS Code, WebStorm
 - Interests: Web development, software, automation
 
 ## Notable Projects
