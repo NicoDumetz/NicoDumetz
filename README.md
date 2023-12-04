@@ -1,27 +1,25 @@
-# Bienvenue sur le profil GitHub de Nicolas Dumetz 👋
+# Welcome to Nicolas Dumetz's GitHub profile! 👋
 
-## À propos de moi
-Je m'appelle Nicolas Dumetz et je suis passionné par le développement informatique depuis que j'ai reçu mon premier PC au collège. Actuellement basé à Lille, je travaille avec plusieurs langages de programmation, notamment Python, C, HTML/CSS, et PHP. J'ai également une certaine expérience avec Java.
+## About Me
+My name is Nicolas Dumetz, and I have been passionate about computer development since I received my first PC in middle school. Currently based in Lille, I work with several programming languages, including Python, C, HTML/CSS, and PHP. I also have some experience with Java.
 
-## Compétences
-- Langages : Python, C, HTML/CSS, PHP, Java
-- Outils : Git, VS Code
-- Intérêts : Développement web, logiciels, automatisation
+## Skills
+- Languages: Python, C, HTML/CSS, PHP, Java
+- Tools: Git, VS Code
+- Interests: Web development, software, automation
 
-## Projets notables
-### [Projet 1](lien_vers_le_projet)
-  Projet de Terminal, Doom en CSFML Raycatring.
+## Notable Projects
+### [Project 1]
+  High school Terminal project, Doom in CSFML Raycasting.
 
 ## Freelance
-Je prévois de me lancer en freelance prochainement. Si vous avez des opportunités de collaboration ou si vous souhaitez discuter de projets, n'hésitez pas à me contacter.
+I plan to launch into freelance soon. If you have collaboration opportunities or want to discuss projects, feel free to contact me.
 
 ## Contact
-- Mail : nicolas.dumetz@gmail.com
+- Email: nicolas.dumetz@gmail.com
 
-## Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=VotreNom&show_icons=true&theme=radical)
+## GitHub Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-## Remerciements
-Je tiens à remercier tous ceux qui ont contribué à mon parcours et à mes projets. Votre soutien est grandement apprécié.
-
----
+## Acknowledgments
+I want to thank everyone who has contributed to my journey and projects. Your support is greatly appreciated.
