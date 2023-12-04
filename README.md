@@ -9,7 +9,7 @@ My name is Nicolas Dumetz, and I have been passionate about computer development
 - Interests: Web development, software, automation
 
 ## Notable Projects
-### [Project 1]
+### [Project 1] (https://github.com/NicoDumetz/Raycastring-Terminal-project.git)
   High school Terminal project, Doom in CSFML Raycasting.
 
 ## Freelance
