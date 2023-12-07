@@ -16,7 +16,7 @@ My name is Nicolas Dumetz, and I have been passionate about computer development
 I plan to launch into freelance soon. If you have collaboration opportunities or want to discuss projects, feel free to contact me.
 
 ## Contact
-- Email: nicolas.dumetz@gmail.com
+- Email: nicolas.dumetz80131@gmail.com
 
 ## GitHub Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
