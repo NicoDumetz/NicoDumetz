@@ -4,7 +4,7 @@
 My name is Nicolas Dumetz, and I have been passionate about computer development since I received my first PC in middle school. Currently based in Lille, I work with several programming languages, including Python, C, HTML/CSS, and PHP. I also have some experience with Java.
 
 ## Skills
-- Languages: Python, C, HTML/CSS, PHP, Java
+- Languages: Python, C, HTML/CSS, PHP, Javascript
 - Tools: Git, VS Code, WebStorm
 - Interests: Web development, software, automation
 
