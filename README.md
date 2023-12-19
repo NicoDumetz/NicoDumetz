@@ -10,7 +10,7 @@ My name is Nicolas Dumetz, and I have been passionate about computer development
 
 ## Notable Projects
 ### [Project 1] (https://github.com/NicoDumetz/Raycastring-Terminal-project.git)
-  High school Terminal project, Doom in CSFML Raycasting.
+  High school Terminal project, Doom in pygame Raycasting.
 
 ## Freelance
 I plan to launch into freelance soon. If you have collaboration opportunities or want to discuss projects, feel free to contact me.
