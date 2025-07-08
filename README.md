@@ -1,58 +1,22 @@
-<h1 align="left"> Welcome to Nicolas Dumetz's GitHub profile! 👋</h1>
+# 👋 Welcome to my GitHub profile
 
-###
+I'm **Nicolas Dumetz**, a developer passionate about **artificial intelligence** and **firmware programming**. I’ve been fascinated by how machines think and interact with the world ever since I got my first PC back in middle school.
 
-<p align="left">My name is Nicolas Dumetz, and I have been passionate about computer development since I received my first PC in middle school. Currently based in Lille, I work with several programming languages.</p>
+Currently based in **Lille** and studying at **Epitech**, I’m always exploring the frontier between low-level systems and high-level intelligence.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 About me
 
-###
+- 🔧 I build projects at the intersection of **embedded systems** and **AI**  
+- 🧠 Always learning, currently focusing on **neural networks** and **optimization techniques**  
+- 💼 Open to **freelance opportunities**  
+- 🎨 Inspired by **art** and **philosophy** as creative fuels for innovation  
+- 🏀 Passionate about basketball, where precision and intuition collide
 
-<p align="left">💼 Young developer aspiring to launch into freelancing!<br>🎨 Passionate about art and philosophy.<br>🏀 Basketball player.<br>🎓 Student at Epitech.</p>
+---
 
-###
+## 📫 Contact
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="three.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
-</div>
-
-<h2 align="left">Contact Me</h2>
-
-###
-
-<div align="center">
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/nicolas-dumetz/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  <a href="mailto:nicolasdumetzpro@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-<!--   <a href="https://votre-portfolio.com">
-           <img src="https://tse2.mm.bing.net/th?id=OIP.QYKnec85zPeBYhlheegw9QHaEK&pid=Api&P=0&h=180" alt="Portfolio Image" style="max-width: 100%; height: auto;">
-    </a> -->
-</div>
-
-
-
-###
+- [LinkedIn – Nicolas Dumetz](https://www.linkedin.com/in/nicolas-dumetz/)  
+- 📧 nicolasdumetzpro@gmail.com
